@@ -1,10 +1,16 @@
 _repo: How-to-Do-Chemical-Tricks-Containing-Over-One-Hundred-Highly-Amusing-and-Instructive-Tricks-W__50100
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anderson, A.T.
     gutenberg_agent_id: '45689'
     url: http://www.gutenberg.org/2009/agents/45689
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50100#How-to-Do-Chemical-Tricks-Containing-Over-One-Hundred-Highly-Amusing-and-Instructive-Tricks-W_
 gutenberg_issued: '2015-09-30'
 gutenberg_type: Text
 identifiers:
